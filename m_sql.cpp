@@ -1,5 +1,3 @@
-
-йцукайц#include
 #include "m_sql.h"
 
 // user: Alex
