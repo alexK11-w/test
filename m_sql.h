@@ -1,5 +1,5 @@
 v1
-
+s2
 #ifndef M_SQL_H
 #define M_SQL_H
 #include <QtSql/QSql>
